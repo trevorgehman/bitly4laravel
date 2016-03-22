@@ -1,5 +1,5 @@
 {
-    "name": "jelovac/bitly4laravel",
+    "name": "trevorgehman/bitly4laravel",
     "description": "Provides a Laravel package to communicate with Bit.ly API",
     "license": "MIT",
     "require": {
